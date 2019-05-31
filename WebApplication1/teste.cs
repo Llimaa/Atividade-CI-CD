@@ -7,5 +7,6 @@ namespace WebApplication1
 {
     public class teste
     {
+        public int MyProperty { get; private set; }
     }
 }
